@@ -75,7 +75,7 @@ if app_mode == "Home":
     # Image Handling with Error Handling
     image_path = "music_genre_home.png"
     try:
-        st.image(image_path, use_column_width=True)
+        st.image(image_path, use_container_width=True)
     except FileNotFoundError:
         st.warning("⚠️ Image file `music_genre_home.png` not found. Please check your file path.")
 
