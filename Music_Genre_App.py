@@ -200,7 +200,7 @@ if app_mode == "🏠 Home":
         """
         <style>
         .stApp {
-            background-image: url('https://img.freepik.com/free-photo/abstract-uv-ultraviolet-light-composition_23-2149243965.jpg?t=st=1740317568~exp=1740321168~hmac=15c6550b8abc69f180ce9957cb703ad6c98eb845a411fd9709772ca71e9bf206&w=1800');
+            background-image: url('https://img.freepik.com/free-vector/musical-notes-pattern-black-background_1017-32303.jpg?ga=GA1.1.675669965.1739375808&semt=ais_hybrid');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
